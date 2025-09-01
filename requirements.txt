@@ -1,7 +1,2 @@
-numpy==2.3.2
-pandas==2.3.2
-python-dateutil==2.9.0.post0
-pytz==2025.2
-RapidFuzz==3.13.0
-six==1.17.0
-tzdata==2025.2
+packaging==24.2
+wheel @ file:///opt/homebrew/Cellar/python%403.13/3.13.0_1/libexec/wheel-0.44.0-py3-none-any.whl#sha256=f49b82715dce6365f75eddcb0a9bb47d0d46feaf14bbc739dfcbd677b7073f5b
